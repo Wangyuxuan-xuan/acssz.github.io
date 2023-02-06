@@ -1,8 +1,8 @@
 ---
-title: 别样馆 Restaurant Beyond (暂时休店)
-summary: Claridenstrasse 36, 8002 Zürich <br> 持卡人享受9折优惠
+title: 梁子理发
+summary: 微信号: liangzi_sun <br> 电话: 0788168788 <br> 持卡人享受9折优惠
 tags:
-  - eat
+  - live
 date: 2023-02-06
-external_link: https://www.restaurant-beyond.ch/
+# external_link:
 ---
