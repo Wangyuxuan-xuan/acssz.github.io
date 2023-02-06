@@ -1,24 +1,26 @@
 ---
 # Display name
-title: HUAWEI
+title: Kuaizi restaurant
 
-# Username (this should match the folder name)
 authors:
-  - huawei
+  - kuaizi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Events Cooperation
+role: Discount Cooperation
 
-social:
-  - icon: link
-    icon_pack: fas
-    link: https://www.huawei.com
+# Organizations/Affiliations
+organizations:
+  - name: Stanford University
+    url: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Event cooperation
+  - Discount cooperation
 ---
