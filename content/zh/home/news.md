@@ -4,8 +4,8 @@ widget: pages
 headless: true
 weight: 30
 
-title: 最新资讯
-subtitle: Latest News
+title: 活动通知
+subtitle: New Events
 
 content:
   count: 3
@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: post
+  page_type: events
 design:
   view: 3
   columns: '2'
