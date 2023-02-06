@@ -1,9 +1,7 @@
 ---
-title: Contact try??
+# title: Contact try??
 # Page type - we want a landing page (such as a homepage)
 #type: landing
-
-# Your landing page sections - add as many different content blocks as you like
 sections:
 - block: hero
     content:
