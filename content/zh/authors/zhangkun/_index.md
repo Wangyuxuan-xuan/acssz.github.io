@@ -1,26 +1,27 @@
 ---
 # Display name
-title: HUAWEI
+title: 张堃
 
 # Username (this should match the folder name)
 authors:
-  - huawei
+  - zhangkun
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Events Cooperation
+role: 宣传部
+
+email: kun.zhang@uzh.ch
 
 social:
-  - icon: link
+  - icon: envelope
     icon_pack: fas
-    link: https://www.huawei.com
+    link: 'mailto:kun.zhang@uzh.ch'
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Business partners
+  - 执行委员会
 ---
-
-Huawei is sponsoring many of ACSSZ's activities.

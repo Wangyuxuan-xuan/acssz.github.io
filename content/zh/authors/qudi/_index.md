@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 李许雯佳
+title: 曲笛
 
 # Username (this should match the folder name)
 authors:
-  - lixuwenjia
+  - qudi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 主席
+role: 副主席
 
-email: xuwli@student.ethz.ch
+email: qd9315@gmail.com
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xuwli@student.ethz.ch'
+    link: 'mailto:qd9315@gmail.com'
 
 
 # Organizational groups that you belong to (for People widget)

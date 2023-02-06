@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 李许雯佳
+title: 高源
 
 # Username (this should match the folder name)
 authors:
-  - lixuwenjia
+  - gaoyuan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 主席
+role: 司库
 
-email: xuwli@student.ethz.ch
+email: nouvaxs@gmail.com
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xuwli@student.ethz.ch'
+    link: 'mailto:nouvaxs@gmail.com'
 
 
 # Organizational groups that you belong to (for People widget)
