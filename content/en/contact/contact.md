@@ -14,10 +14,9 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  trytrytrytrytrytrytrytry
 
 
-  email: xuelian@acssz.org
+  email: inthink18z@gmail.com
 #  appointment_url: 'https://calendly.com'
 # contact_links:
 #    - icon: comments
@@ -37,5 +36,6 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
-    design:
-      columns: '1'
+design:
+    columns: '1'
+---
