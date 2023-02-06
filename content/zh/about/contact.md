@@ -7,24 +7,24 @@ widget: contact
 headless: true
 
  # Order that this section appears on the page.
-weight: 10
+weight: 100
 
 title: Contact us
 subtitle:
 
 content:
    # Automatically link email and phone or display as text?
-   email: inthink18z@gmail.com
+   email: xuelian@acssz.org
    autolink: true
 
    # Email form provider
-   ## form:
-     ## provider: netlify
-     ## formspree:
+   form:
+     provider: netlify
+    ## formspree:
        ## id:
-     ## netlify:
+    netlify:
        # Enable CAPTCHA challenge to reduce spam?
-       ## captcha: false
+       captcha: false
 design:
    columns: '1'
 ---
