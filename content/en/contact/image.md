@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 200
 
 title:
 subtitle:
@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: qrcode.png
+    image: QRcode.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -23,6 +23,6 @@ design:
     text_color_light: true
   spacing:
     padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
+#advanced:
+  #css_class: fullscreen
 ---
