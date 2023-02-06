@@ -15,7 +15,7 @@ role: Business Cooperation
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.airchina.com
+    link: https://www.airchina.ch/‎
 
 
 # Organizational groups that you belong to (for People widget)
