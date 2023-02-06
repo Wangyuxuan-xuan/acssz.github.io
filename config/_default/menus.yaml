@@ -5,8 +5,17 @@
 
 main:
   - name: 服务汇总
-    url: post
+    url: service
+    identifier: service
     weight: 10
+  - name: 手册群组
+    parent: service
+    url: service/booklet
+    weight: 22
+  - name: 新生FAQ
+    parent: service
+    url: service/faq
+    weight: 22
   - name: 活动资讯
     identifier: event
     url: event
