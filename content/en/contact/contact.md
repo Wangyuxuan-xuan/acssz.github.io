@@ -2,20 +2,20 @@
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 
-widget: contact
+### widget: contact
 
 # This file represents a page section.
-headless: true
+### headless: true
 
 # Order that this section appears on the page.
-weight: 10
-title: Contact
-subtitle:
+### weight: 10
+### title: Contact
+### subtitle:
 
-content:
+### content:
   # Contact (edit or remove options as required)
 
-email: inthink18z@gmail.com
+### email: inthink18z@gmail.com
 #  appointment_url: 'https://calendly.com'
 # contact_links:
 #    - icon: comments
@@ -24,22 +24,29 @@ email: inthink18z@gmail.com
 #      link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+###  autolink: true
 
-design:
-    columns: '1'
+### design:
+    ### columns: '1'
+# Page title
+title: My page
+# Page type - we want a landing page (such as a homepage)
+type: landing
 
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-    headless: true # This file represents a page section.
-    weight: 20 # Order that this section will appear.
-    title: |
-      try try try
-    hero_media: QRcode.jpg
-    design:
-      # Choose how many columns the section has. Valid values: 1 or 2.
-      columns: '1'
-      # Add custom styles
+# Your landing page sections - add as many different content blocks as you like
+sections:
+  - block: contact
+    id: contact
     content:
-    email: inthink18z@gmail.com
+      title: Contact
+      subtitle: ''
+      text: ''
+      email: inthink18z@gmail.com
+      autolink: true
+      form:
+        provider: formspree
+        formspree:
+          id: xknajwaq
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
