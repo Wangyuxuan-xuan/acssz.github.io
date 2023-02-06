@@ -9,15 +9,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: 合作伙伴
+title: Business partners
 subtitle: Business partners
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Business partners
-    - Card partners
+    - Business
+    - Card
 design:
   show_interests: false
   show_role: true
