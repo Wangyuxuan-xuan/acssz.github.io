@@ -1,28 +1,28 @@
 ---
-title: Example Event
+title: “缘”来就是你 | 520交友会
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: ACSSZ
+event_url: https://mp.weixin.qq.com/s/3NKXCHXfcw-RF9xLSSfUFA
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Andreasstrasse 15
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 520交友会
+abstract: ​​520，等你广交好友，告别单身！
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2018-05-20'
+#date_end: '2030-06-01T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2018-05-19'
 
 authors: []
 tags: []
@@ -54,10 +54,13 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+[点击报名](https://goo.gl/forms/YyHGtI0lBVAjqtf42)
 
+<!-- Slides can be added in a few ways: -->
+
+<!--
 - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Further event details, including page elements such as image galleries, can be added to the body of this page. -->

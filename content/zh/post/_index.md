@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 服务汇总
 
 # Listing view
 view: compact

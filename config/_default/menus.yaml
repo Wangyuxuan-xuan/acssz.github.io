@@ -11,10 +11,6 @@ main:
     identifier: events
     url: events
     weight: 20
-  - name: 活动通知
-    parent: events
-    url: events/new/
-    weight: 21
   - name: 往期回顾
     parent: events
     url: events/past/
@@ -22,6 +18,10 @@ main:
   - name: 合作伙伴
     url: partners
     weight: 30
+  - name: 学联卡
+    parent: partners
+    url: partners/card/
+    weight: 32
   - name: 关于我们
     url: contact
     weight: 60
