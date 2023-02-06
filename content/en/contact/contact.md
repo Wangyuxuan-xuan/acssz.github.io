@@ -9,7 +9,6 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 10
-<div style="width: 50%;">
 title: Contact
 subtitle:
 
@@ -40,4 +39,3 @@ content:
 
     design:
       columns: '1'
-</div>
