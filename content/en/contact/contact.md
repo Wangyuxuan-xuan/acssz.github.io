@@ -9,15 +9,14 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 10
-
+<div style="width: 50%;">
 title: Contact
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  <div style="width:50%">
   trytrytrytrytrytrytrytry
-  </div>
+
 
   email: xuelian@acssz.org
 #  appointment_url: 'https://calendly.com'
@@ -39,5 +38,6 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
-design:
-  columns: '1'
+    design:
+      columns: '1'
+</div>
