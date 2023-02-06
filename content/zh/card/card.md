@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Restaurant
-      tag: R
-    - name: Living
-      tag: L
-    - name: Others
-      tag: O
+    - name: 餐厅
+      tag: eat
+    - name: 生活
+      tag: live
+    - name: 其他
+      tag: extra
 
 design:
   columns: '1'
