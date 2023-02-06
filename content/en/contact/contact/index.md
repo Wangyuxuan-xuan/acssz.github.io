@@ -2,15 +2,15 @@
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 
-### widget: contact
+###widget: contact
 
 # This file represents a page section.
-### headless: true
+###headless: true
 
 # Order that this section appears on the page.
-### weight: 10
-### title: Contact
-### subtitle:
+###weight: 10
+###title: Contact
+###subtitle:
 
 ### content:
   # Contact (edit or remove options as required)
@@ -29,7 +29,7 @@
 ### design:
     ### columns: '1'
 # Page title
-title: My page
+title: Contact try???
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -44,9 +44,9 @@ sections:
       email: inthink18z@gmail.com
       autolink: true
       form:
-        provider: formspree
-        formspree:
-          id: xknajwaq
+        provider: netlify
+        netlify:
+          captcha: false
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 ---
