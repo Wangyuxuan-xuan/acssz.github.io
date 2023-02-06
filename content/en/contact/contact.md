@@ -2,7 +2,7 @@
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 
-<div style="width: 50%;">
+
 widget: contact
 
 # This file represents a page section.
@@ -15,6 +15,13 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
+
+  <div style="width: 50%;">
+  trytrytry
+  </div>
+  <div style="width: 50%;">
+  trytrytry
+  </div>
 
 
 email: inthink18z@gmail.com
@@ -30,5 +37,5 @@ email: inthink18z@gmail.com
 
 design:
     columns: '1'
-</div>
+
 ---
