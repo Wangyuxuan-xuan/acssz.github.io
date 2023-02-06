@@ -2,8 +2,7 @@
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 
-
-<!-- widget: contact
+widget: contact
 
 # This file represents a page section.
 headless: true
@@ -28,12 +27,12 @@ email: inthink18z@gmail.com
   autolink: true
 
 design:
-    columns: '1' -->
+    columns: '1'
 
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
     headless: true # This file represents a page section.
-    weight: 10 # Order that this section will appear.
+    weight: 20 # Order that this section will appear.
     title: |
       try try try
     hero_media: QRcode.jpg
@@ -43,5 +42,4 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
       # Add custom styles
     content:
     email: inthink18z@gmail.com
-    ---
 ---
