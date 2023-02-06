@@ -4,6 +4,7 @@ title: Contact try??
 #type: landing
 
 # Your landing page sections - add as many different content blocks as you like
+sections:
 - block: hero
     content:
       title: Your Hero Title
