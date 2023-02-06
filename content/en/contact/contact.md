@@ -15,7 +15,7 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  <div style="width: 50%;">
+  <div style="width:50%">
   trytrytrytrytrytrytrytry
   </div>
 
