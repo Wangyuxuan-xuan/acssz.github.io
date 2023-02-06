@@ -3,6 +3,7 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+defaultContentLanguage: zh
 # Uncomment the lines below to configure your website in a second language.
 
 zh:
