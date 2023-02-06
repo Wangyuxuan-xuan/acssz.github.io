@@ -1,26 +1,27 @@
 ---
 # Display name
-title: HUAWEI
+title: Air China
 
 # Username (this should match the folder name)
 authors:
-  - huawei
+  - airchina
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Events Cooperation
+role: Business Cooperation
 
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.huawei.com
+    link: https://www.airchina.com
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Event cooperation
+#user_groups:
+# - Business cooperation
 ---
 
-Huawei is sponsoring many of ACSSZ's activities.
+Air China is one of our business partners.

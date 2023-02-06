@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kuaizi restaurant
+title: Chopstick restaurant
 
 authors:
   - kuaizi
@@ -12,9 +12,6 @@ superuser: false
 role: Discount Cooperation
 
 # Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -24,3 +21,5 @@ highlight_name: false
 user_groups:
   - Discount cooperation
 ---
+
+The chopstick restaurant is located in the center of Zurich.
