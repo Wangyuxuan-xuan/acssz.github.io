@@ -4,8 +4,8 @@ widget: pages
 headless: true
 weight: 30
 
-title: 活动通知
-subtitle: New Events
+title: 活动一览
+subtitle: ''
 
 content:
   count: 3
