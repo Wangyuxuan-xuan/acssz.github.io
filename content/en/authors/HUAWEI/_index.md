@@ -3,7 +3,7 @@
 title: HUAWEI
 
 # Username (this should match the folder name)
-companies:
+authors:
   - HUAWEI
 
 # Is this the primary user of the site?
