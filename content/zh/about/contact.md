@@ -25,7 +25,7 @@ content:
           icon_pack: fab
           name: 微博号
           link: 'http://www.weibo.com/p/1005052462691882/home?from=page_100505&mod=TAB&is_hot=1'
-        - icon: wechat
+        - icon: weixin
           icon_pack: fab
           name: 微信公众号
           link: 'https://mp.weixin.qq.com/s/GaPP3vFxrKfpJXSHtdiMHA'
