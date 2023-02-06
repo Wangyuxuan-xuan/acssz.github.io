@@ -32,5 +32,18 @@ main:
     url: partner/card/
     weight: 32
   - name: 关于我们
+    identifier: about
     url: about
     weight: 40
+  - name: 团队信息
+    parent: about
+    url: about/people/
+    weight: 41
+  - name: 部门介绍
+    parent: about
+    url: about/group/
+    weight: 42
+  - name: 联系我们
+    parent: about
+    url: about/contact/
+    weight: 43
