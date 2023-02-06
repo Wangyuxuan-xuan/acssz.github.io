@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-<div style="width: 50%;">
+
 widget: contact
 
 # This file represents a page section.
@@ -15,6 +15,9 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
+  <div style="width: 50%;">
+  trytrytrytrytrytrytrytry
+  </div>
 
   email: xuelian@acssz.org
 #  appointment_url: 'https://calendly.com'
@@ -38,28 +41,3 @@ content:
 
 design:
   columns: '1'
-</div><div style="width: 50%;">
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title:
-subtitle:
-
-design:
-  columns: '1'
-  background:
-    image: QRcode.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ['20px', '0', '20px', '0']
-</div>
----
