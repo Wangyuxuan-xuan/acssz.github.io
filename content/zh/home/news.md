@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: events
+  page_type: event
 design:
   view: 3
   columns: '2'

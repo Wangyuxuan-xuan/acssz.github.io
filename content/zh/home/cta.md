@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./about/contact/" cta_text="联系我们 →" %}}
+{{% cta cta_link="./about" cta_text="联系我们 →" %}}

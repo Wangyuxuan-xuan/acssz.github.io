@@ -8,30 +8,25 @@ main:
     url: post
     weight: 10
   - name: 活动资讯
-    identifier: events
-    url: events
+    identifier: event
+    url: event
     weight: 20
   - name: 活动通知
-    parent: events
-    url: events/new/
+    parent: event
+    url: event/new/
     weight: 21
   - name: 往期回顾
-    parent: events
-    url: events/past/
+    parent: event
+    url: event/past/
     weight: 22
   - name: 合作伙伴
-    identifier: partners
-    url: partners
+    identifier: partner
+    url: partner
     weight: 30
   - name: 学联卡
-    parent: partners
-    url: partners/card/
+    parent: partner
+    url: partner/card/
     weight: 31
   - name: 关于我们
-    identifier: about
     url: about
     weight: 40
-  - name: 联系我们
-    parent: about
-    url: about/contact
-    weight: 41
