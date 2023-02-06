@@ -8,13 +8,13 @@ main:
     url: service
     identifier: service
     weight: 10
-  - name: 手册群组
+  - name: 实用信息
     parent: service
     url: service/booklet
     weight: 22
-  - name: 新生FAQ
+  - name: 新生Q&A
     parent: service
-    url: service/faq
+    url: service/qa
     weight: 22
   - name: 活动资讯
     identifier: event
