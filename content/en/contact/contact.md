@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 
 
-widget: contact
+<!-- widget: contact
 
 # This file represents a page section.
 headless: true
@@ -15,14 +15,6 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-
-  <div style="width: 50%;">
-  trytrytry
-  </div>
-  <div style="width: 50%;">
-  trytrytry
-  </div>
-
 
 email: inthink18z@gmail.com
 #  appointment_url: 'https://calendly.com'
@@ -36,6 +28,20 @@ email: inthink18z@gmail.com
   autolink: true
 
 design:
-    columns: '1'
+    columns: '1' -->
 
+
+widget: hero # See https://wowchemy.com/docs/page-builder/
+    headless: true # This file represents a page section.
+    weight: 10 # Order that this section will appear.
+    title: |
+      try try try
+    hero_media: QRcode.jpg
+    design:
+      # Choose how many columns the section has. Valid values: 1 or 2.
+      columns: '1'
+      # Add custom styles
+    content:
+    email: inthink18z@gmail.com
+    ---
 ---
