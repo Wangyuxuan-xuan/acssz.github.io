@@ -5,19 +5,14 @@
 # Default language
 # Uncomment the lines below to configure your website in a second language.
 
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
-
 zh:
  languageCode: zh-Hans
  contentDir: content/zh
  title: 苏黎世学联
  params:
    description: 苏黎世学联
- menu:
-   main:
-     - name: 传
-       url: '#about'
-       weight: 1
+
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en

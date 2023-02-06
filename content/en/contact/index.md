@@ -38,7 +38,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact form
       subtitle: ''
       text: ''
       email: inthink18z@gmail.com
@@ -47,5 +47,5 @@ sections:
         provider: netlify
         netlify:
           captcha: false
-      image: QRcode.jpg
+      image: Xuelian_front.jpg
 ---
