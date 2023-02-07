@@ -11,11 +11,11 @@ main:
   - name: 实用信息
     parent: service
     url: service/booklet
-    weight: 22
+    weight: 11
   - name: 新生Q&A
     parent: service
     url: service/qa
-    weight: 22
+    weight: 12
   - name: 活动资讯
     identifier: event
     url: event
