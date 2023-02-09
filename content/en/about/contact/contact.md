@@ -11,7 +11,7 @@ weight: 100
 
 title: Contact Us
 subtitle: ''
-text: You can contact us in the following ways:
+text: You can contact us in the following ways
 
 content:
    # Automatically link email and phone or display as text?
