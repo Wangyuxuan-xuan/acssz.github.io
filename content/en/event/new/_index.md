@@ -1,5 +1,5 @@
 ---
-title: event notice
+title: Event Notice
 
 # Listing view
 view: showcase
