@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 秘书处
+role: Secreariat
 
 email: tongtong.wang@hest.ethz.ch
 
@@ -23,5 +23,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 执行委员会
+  - Executive Committee
 ---

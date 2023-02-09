@@ -1,5 +1,5 @@
 ---
-title: “缘”来就是你 | 520交友会
+title: You are My Destiny | 520 Making Friends
 
 event: ACSSZ
 event_url: https://mp.weixin.qq.com/s/3NKXCHXfcw-RF9xLSSfUFA
@@ -12,8 +12,8 @@ location: Andreasstrasse 15
 #  postcode: '94305'
 #  country: United States
 
-summary: 520交友会
-abstract: ​​520，等你广交好友，告别单身！
+summary: 520 Making Friends
+abstract: ​​520, wait for you to make friends, say goodbye to single!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -54,7 +54,7 @@ slides:
 projects:
 ---
 
-[点击报名](https://goo.gl/forms/YyHGtI0lBVAjqtf42)
+[Click here to sign up](https://goo.gl/forms/YyHGtI0lBVAjqtf42)
 
 <!-- Slides can be added in a few ways: -->
 

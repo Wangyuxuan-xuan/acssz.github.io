@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 司库
+role: Accounting Department
 
 email: nouvaxs@gmail.com
 
@@ -23,5 +23,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 主席团
+  - Presidium
 ---

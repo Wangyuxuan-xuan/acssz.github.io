@@ -3,7 +3,7 @@ title: Public Relations Department
 date: 2023-02-06
 ---
 
-Maintain internal and external public relations to better meet the work, study and life needs of Zurich students:
+Maintain internal and external public relations to better meet the work, study and life needs of Zurich students：
 
 1. Contacted outstanding talents in work, travel and hobbies, shared experiences online and offline for students; Compiling new student handbook; Organize Zurich Parade Group, self-defense instruction, volunteers, Dragon Boat Festival reunion and other activities.
 
