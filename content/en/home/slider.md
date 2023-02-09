@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 健康包发放
-      content: 与总领馆总领事赵清华
+    - title: Health pack issue
+      content: With Zhao Qinghua, Consul General of the Consulate General
       align: center
       background:
         position: center
@@ -24,8 +24,8 @@ content:
         brightness: 0.7
         media: slider_consulat.jpg
         fit: cover
-    - title: 二胡教学
-      content: '2018文化节'
+    - title: Erhu teaching
+      content: '2018 Cultural Festival'
       align: right
       background:
         position: center
@@ -33,7 +33,7 @@ content:
         brightness: 0.7
         media: slider_erhu.jpeg
         fit: cover
-    - title: 汉服体验
+    - title: Eperience of Chinese Traditional Clothes
       content: ''
       align: left
       background:
@@ -42,7 +42,7 @@ content:
         brightness: 0.7
         media: slider_hanfu.jpg
         fit: cover
-    - title: 中华美食
+    - title: Chinese Food
       content: ''
       align: right
       background:
@@ -56,7 +56,7 @@ content:
         icon_pack: fas
         text: Join Us
         url: ../contact/ -->
-    - title: 民乐演出
+    - title: Folk music performance
       content: ''
       align: left
       background:

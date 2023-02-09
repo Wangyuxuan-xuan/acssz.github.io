@@ -1,6 +1,6 @@
 ---
-title: 瑞士中心医院
-summary: Giesshübelstrasse 45, 8045 Zürich <br> 持卡人享受8折优惠
+title: Swiss Central Hospital
+summary: Giesshübelstrasse 45, 8045 Zürich <br> Cardholders get a 20% discount
 tags:
   - extra
 date: 2023-02-06

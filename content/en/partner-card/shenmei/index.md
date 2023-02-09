@@ -1,6 +1,6 @@
 ---
-title: 审美造型
-summary: '微信号: LiaoNing-Schweiz <br> ​持卡人享受9折优惠'
+title: Shenmei Zaoxing
+summary: 'Wechat Id: LiaoNing-Schweiz <br> ​Cardholders get a 10% discount'
 tags:
   - live
 date: 2023-02-06

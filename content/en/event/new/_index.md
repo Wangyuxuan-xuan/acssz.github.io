@@ -1,5 +1,5 @@
 ---
-title: 活动通知
+title: event notice
 
 # Listing view
 view: showcase

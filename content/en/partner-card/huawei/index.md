@@ -1,6 +1,6 @@
 ---
-title: 华为 Huawei
-summary: 请见当季优惠信息
+title: Huawei
+summary: Please see current season's promotion information
 tags:
   - extra
 date: 2023-02-06

@@ -1,5 +1,5 @@
 ---
-title: 往期活动回顾
+title: Review of past activities
 
 # Listing view
 view: compact

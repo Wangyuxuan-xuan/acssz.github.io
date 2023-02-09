@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: 餐厅
+    - name: eat
       tag: eat
-    - name: 生活
+    - name: live
       tag: live
-    - name: 其他
+    - name: extra
       tag: extra
 
 design:

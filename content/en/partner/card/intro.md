@@ -14,4 +14,4 @@ design:
 
 <br>
 
-苏黎世学联会员卡为实名制，不可转让，不可复制；持卡者可凭卡在学联合作商家处享有相应优惠。各个合作商家的优惠方式如下：
+ACSSZ membership card is real-name, non-transferable and non-replicable; Card holders can enjoy corresponding discounts in the cooperative merchants of the Student Federation. The preferential way of each cooperative business is as follows:

@@ -1,6 +1,6 @@
 ---
-title: 杜鹃奶茶店 KHUJUG BUBBLE TEA
-summary: Schöneggstrasse 5, 8004 Zürich <br> 持卡人享受9折优惠
+title: KHUJUG BUBBLE TEA
+summary: Schöneggstrasse 5, 8004 Zürich <br> Cardholders get a 10% discount
 tags:
   - eat
 date: 2023-02-06

@@ -1,6 +1,6 @@
 ---
-title: 别样馆 Restaurant Beyond (暂时休店)
-summary: Claridenstrasse 36, 8002 Zürich <br> 持卡人享受9折优惠
+title: Restaurant Beyond (Temporarily closed)
+summary: Claridenstrasse 36, 8002 Zürich <br> Cardholders get a 10% discount
 tags:
   - eat
 date: 2023-02-06

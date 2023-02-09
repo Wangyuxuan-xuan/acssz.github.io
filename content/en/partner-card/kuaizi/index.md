@@ -1,6 +1,6 @@
 ---
-title: 筷子 Chopstick
-summary: Niederdorfstrasse 82, 8001 Zürich <br> 持卡人享受9折优惠
+title: Chopstick
+summary: Niederdorfstrasse 82, 8001 Zürich <br> Cardholders get a 10% discount
 tags:
   - eat
 date: 2023-02-06

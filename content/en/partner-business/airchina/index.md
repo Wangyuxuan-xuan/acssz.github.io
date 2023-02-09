@@ -1,5 +1,5 @@
 ---
-#title: 中国国际航空公司 AIR CHINA
+#title: Air China International Corp. AIR CHINA
 #summary:
 #tags:
 #  - extra

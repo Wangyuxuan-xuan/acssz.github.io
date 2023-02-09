@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: 活动一览
+title: List of activities
 subtitle: ''
 
 content:

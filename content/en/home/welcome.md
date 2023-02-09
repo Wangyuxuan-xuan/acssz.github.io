@@ -33,4 +33,4 @@ design:
 
 <br>
 
-**苏黎世中国学生学者联合会 (ACSSZ)** 成立于80年代中，是一个由当地学生学者们共同组成、关爱互助的大家庭。学联宗旨是服务广大中国学生、学者，联系、团结校友、华人、华侨，服务苏黎世地区的华人社区，弘扬中华文化，促进中瑞文化交流与相互理解。
+**Association of Chinese Students and Scholars in Zurich (ACSSZ)** Founded in the 1980s, it is a caring family of local students and scholars. The mission of the Federation is to serve Chinese students and scholars, to connect and unite alumni, Chinese and overseas Chinese, to serve the Chinese community in Zurich, to promote Chinese culture, and to promote cultural exchanges and mutual understanding between China and Switzerland.

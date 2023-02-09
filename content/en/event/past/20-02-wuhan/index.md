@@ -1,6 +1,6 @@
 ---
-title: 海外学子心系武汉疫情
+title: Overseas students are concerned about the Wuhan epidemic
 date: 2020-02-01
 ---
 
-当新冠疫情在中国中部城市武汉爆发之时，身在苏黎世的华人心系武汉。苏黎世学联先后与德国相关协会以及在瑞其他学联积极合作，成立武汉物资后援会。同时，学联向在瑞华人传达由中国驻苏黎世领事馆以及外交部的发布的最新疫情政策，瑞士当地的防疫规定以及回国政策等重要信息。
+When the coronavirus outbreak began in Wuhan, a city in central China, the Chinese in Zurich had Wuhan in their hearts. The Zurich Federation of Students has actively cooperated with relevant associations in Germany and other student federations in Switzerland to set up Wuhan Materials Support Association. At the same time, the Federation conveyed to the Chinese in Switzerland the latest epidemic policy issued by the Chinese Consulate in Zurich and the Ministry of Foreign Affairs, the local regulations on epidemic prevention and the repatriation policy and other important information.

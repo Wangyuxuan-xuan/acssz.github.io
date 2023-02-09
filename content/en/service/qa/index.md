@@ -1,1 +1,1 @@
-# 新生Q&A
+# Q&A for Freshmen
