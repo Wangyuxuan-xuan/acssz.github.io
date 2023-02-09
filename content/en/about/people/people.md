@@ -16,8 +16,8 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - 主席团
-    - 执行委员会
+    - Presidium
+    - Executive Committee
 design:
   show_interests: false
   show_role: true

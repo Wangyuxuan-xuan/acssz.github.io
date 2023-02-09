@@ -1,16 +1,16 @@
 ---
-title: 公关部
+title: Public Relations Department
 date: 2023-02-06
 ---
 
-对内对外公共关系维护，更好的满足苏黎世学生的工作学习生活需求：
+Maintain internal and external public relations to better meet the work, study and life needs of Zurich students:
 
-1. 联络工作、旅行、兴趣爱好的牛人达人，为同学做线上线下经验分享；新生手册编写；组织如Zurich Parade组团、防身术指导、志愿者、端午团聚等活动。
+1. Contacted outstanding talents in work, travel and hobbies, shared experiences online and offline for students; Compiling new student handbook; Organize Zurich Parade Group, self-defense instruction, volunteers, Dragon Boat Festival reunion and other activities.
 
-2. ETH初创企业组织的沟通联络，共同举办创新创业大赛，经验分享等活动；在瑞华人留学生创业调研，撰写创业报告；与校友会、其他海内外学联组织的沟通合作。
+2. Communication and liaison with ETH start-ups, co-organizing innovation and entrepreneurship competitions, experience sharing and other activities; Chinese students in Switzerland entrepreneurship research, write entrepreneurship report; Communicate and cooperate with the alumni Association and other student associations at home and abroad.
 
-3. 与中瑞协会、China Switzerland Connection、科协、瑞龙滑雪协会、精武会馆、艺术团等沟通联络，举办中瑞文化交流、语言角、文化节、武术课、文艺表演等活动。4. 负责与使馆和领馆的对接，协助使馆与领馆的工作。
+3. Communicate with China Switzerland Connection, China Switzerland Connection, Association of Science and Technology, Ruilong Ski Association, Jingwu Hall, art troupe, etc., and organize Sino-Switzerland cultural exchange, language corner, cultural festival, martial arts class, artistic performance and other activities. 4. Responsible for the connection with the embassy and consulates and assist the work of the embassy and consulates.
 
-苏黎世的同学圈，似乎每个人的名字都知道 (结识五湖四海的同学，撩妹，撩帅哥相当可以滴，还有外国妹子和帅哥)；苏黎世的各路达人，牛人，你也都认识 (所谓三人行必有我师，这么多老师，这高度杠杠的)；人际交往能力的培养。处理各种公共关系，跟这么多人打交道，情商自然会培养起来哒；组织领导能力。要成功组织一场活动，是很锻炼Leadership的，以后各种找工作无领导小组讨论，自然不会怕。
+The classmates in Zurich seem to know everyone's name (it is very easy to meet students from all over the world, flirt with girls, flirt with handsome boys, and foreign girls and handsome boys); You also know all the great people in Zurich. (As the saying goes, there must be a teacher in the company of three. There are so many teachers. The cultivation of interpersonal skills. Working in public relations and dealing with so many people, emotional intelligence comes naturally. Organizational leadership. To successfully organize an activity, it is a great exercise of Leadership, in the future, all kinds of leaderless group discussions, naturally won't be afraid.
 
-想锻炼学生工作能力；想拓宽人际关系；想培养领导能力；最重要，想和我们一起，为学生服务，把脑袋里的奇思妙想实现的你。
+Want to exercise students work ability; Want to broaden your relationships; Want to develop leadership skills; Most importantly, you want to work with us, to serve the students, to make the ideas in your head come true.

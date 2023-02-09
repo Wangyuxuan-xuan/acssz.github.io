@@ -1,6 +1,6 @@
 ---
-title: 技术部
+title: Department of Technology
 date: 2023-02-06
 ---
 
-技术部长期招募学联app、论坛、网站、小程序等开发人员，欢迎对技术有热情的同学加入！
+The Technology Department has been recruiting students' Association app, forum, website, small program and other developers for a long time, welcome students who are enthusiastic about technology to join!

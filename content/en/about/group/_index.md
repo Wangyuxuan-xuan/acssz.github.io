@@ -1,5 +1,5 @@
 ---
-title: 部门介绍
+title: Department Introduction
 
 # Listing view
 view: compact

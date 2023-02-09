@@ -9,9 +9,9 @@ headless: true
  # Order that this section appears on the page.
 weight: 100
 
-title: 联系我们
+title: Contact Us
 subtitle: ''
-text: 您可以通过以下方式联系我们：
+text: You can contact us in the following ways:
 
 content:
    # Automatically link email and phone or display as text?
@@ -19,15 +19,15 @@ content:
    contact_links:
         - icon: facebook
           icon_pack: fab
-          name: Facebook群组
+          name: Facebook Group
           link: 'https://www.facebook.com/groups/174462206028150/'
         - icon: weibo
           icon_pack: fab
-          name: 微博号
+          name: Weibo account
           link: 'http://www.weibo.com/p/1005052462691882/home?from=page_100505&mod=TAB&is_hot=1'
         - icon: weixin
           icon_pack: fab
-          name: 微信公众号
+          name: WeChat Official Account
           link: 'https://mp.weixin.qq.com/s/GaPP3vFxrKfpJXSHtdiMHA'
    autolink: true
 

@@ -1,8 +1,8 @@
 ---
-title: 秘书处
+title: Secreariat
 date: 2023-02-06
 ---
 
-学联活动的成功举办离不开我们秘书部的幕后协助。虽然我们一直默默无闻，但我们十项全能，无所不在，我们对所有的活动流程了如指掌。我们建立条理清晰的文件系统和邮件系统，我们帮助整理各种会务工作，我们还是财务主管，还是人力主管......
+The success of Student Federation activities cannot be achieved without the behind-the-scenes assistance of our secretary Department. We've never been known, but we're decathlon, we're everywhere, we know all the action. We set up an organized file system and email system, we help organize meetings, and we're head of finance, head of human resources......
 
-总之，如果你想保持低调奢华有内涵的气质，又想搞一些事情，秘书处欢迎你。
+In short, if you want to keep a low-key luxury and connotation of the temperament, but also want to do something, the secretariat welcomes you.

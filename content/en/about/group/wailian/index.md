@@ -1,8 +1,8 @@
 ---
-title: 外联部
+title: Public Relations Department
 date: 2023-02-06
 ---
 
-外联部主要负责承办国内政府、高校、企业在苏黎世召开的宣讲会和招聘会。
+The Public Relations Department is mainly responsible for organizing information conferences and job fairs held in Zurich by domestic governments, universities and enterprises.
 
-无论你是想获得回国就业一手信息的同学，想建立起回国发展人脉的同学，想锻炼组织能力、沟通能力和协调能力的同学，还是想在苏村广交朋友的同学，外联部都欢迎你们的加入！
+Whether you want to get first-hand information about employment in China, want to build a network in China, want to practice the ability of organization, communication and coordination, or want to make friends in Sucun, the Public Relations Department welcomes you to join!
