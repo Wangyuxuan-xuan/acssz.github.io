@@ -1,8 +1,8 @@
 ---
-title: 往期活动回顾
+title: 2021年活动
 
 # Listing view
-view: compact
+view: showcase
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

@@ -1,5 +1,5 @@
 ---
-title: 服务汇总
+title: 服务
 
 # Listing view
 view: compact

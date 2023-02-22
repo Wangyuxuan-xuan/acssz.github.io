@@ -4,55 +4,91 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 服务汇总
+  - name: 服务
     url: service
     identifier: service
     weight: 10
-  - name: 实用信息
+  - name: 起飞指南视频
+    parent: service
+    url: service/guide
+    weight: 11
+  - name: 新生手册
     parent: service
     url: service/booklet
-    weight: 11
-  - name: 新生Q&A
-    parent: service
-    url: service/qa
     weight: 12
-  - name: 活动资讯
+  - name: 学联微信公众号
+    parent: service
+    url: service/wechat
+    weight: 13
+  - name: 学联小红书
+    parent: service
+    url: service/redbook
+    weight: 14
+  - name: 学联论坛
+    parent: service
+    url: service/forum
+    weight: 15
+  - name: 学联卡小程序
+    parent: service
+    url: service/miniprogram
+    weight: 16
+  - name: 学联专属Sunrise YOL折扣
+    parent: service
+    url: service/yol
+    weight: 17
+  - name: 学联专属Swisscare折扣
+    parent: service
+    url: service/swisscare
+    weight: 18
+  - name: 学联伙伴intermezzo租房
+    parent: service
+    url: service/intermezzo
+    weight: 19
+  - name: 活动
     identifier: event
     url: event
     weight: 20
-  - name: 活动通知
+  - name: 2022
     parent: event
-    url: event/new/
+    url: event/2022/
     weight: 21
-  - name: 往期回顾
+  - name: 2021
     parent: event
-    url: event/past/
+    url: event/2021/
     weight: 22
-  - name: 合作伙伴
+  - name: 2020
+    parent: event
+    url: event/2020/
+    weight: 23
+  - name: 2019
+    parent: event
+    url: event/2019/
+    weight: 24
+  - name: 2018
+    parent: event
+    url: event/2018/
+    weight: 25
+  - name: 伙伴
     identifier: partner
     url: partner
     weight: 30
-  - name: 商业合作
-    parent: partner
-    url: partner/business/
-    weight: 31
-  - name: 学联卡
-    parent: partner
-    url: partner/card/
-    weight: 32
-  - name: 关于我们
+  - name: 关于
     identifier: about
     url: about
     weight: 40
+  - name: 学联简介
+    parent: about
+    url: about/intro/
+    weight: 42
   - name: 团队信息
     parent: about
     url: about/people/
-    weight: 41
-  - name: 部门介绍
+    weight: 43
+  - name: 部门结构
     parent: about
     url: about/group/
-    weight: 42
-  - name: 联系我们
+    weight: 44
+  - name: 联系学联
     parent: about
     url: about/contact/
-    weight: 43
+    weight: 45

@@ -29,6 +29,10 @@ content:
           icon_pack: fab
           name: 微信公众号
           link: 'https://mp.weixin.qq.com/s/GaPP3vFxrKfpJXSHtdiMHA'
+        - icon: camera-retro
+          icon_pack: fab
+          name: 小红书账号
+          link: 'https://www.xiaohongshu.com/user/profile/5b2f291af7e8b90e5add573c?xhsshare=CopyLink&appuid=5b685daef6654c0001ea910a&apptime=1677051906'
    autolink: true
 
    # Email form provider

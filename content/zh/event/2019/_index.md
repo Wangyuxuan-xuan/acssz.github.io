@@ -1,5 +1,5 @@
 ---
-title: 活动通知
+title: 2019年活动
 
 # Listing view
 view: showcase
