@@ -1,4 +1,4 @@
-**新生手册(2022版)**
+###### 新生手册(2022版)
 ![booklet](booklet.png)
 下载：
 - [Google Drive](https://drive.google.com/file/d/1fXoNb_2MssT4iY36zdEQRy0tA59VMGK3/view)
