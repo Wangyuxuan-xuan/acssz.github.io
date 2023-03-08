@@ -56,9 +56,9 @@ main:
     parent: event
     url: event/2021/
     weight: 22
-  - name: 2020年
+  - name: 2020
     parent: event
-    url: event/2020年/
+    url: event/2020/
     weight: 23
   - name: 2019
     parent: event
