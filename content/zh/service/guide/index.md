@@ -1,1 +1,3 @@
-# 起飞指南视频
+---
+type: widget_page
+---

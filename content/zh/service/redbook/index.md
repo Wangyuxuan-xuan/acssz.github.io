@@ -1,1 +1,3 @@
-# 学联小红书
+---
+type: widget_page
+---
