@@ -1,25 +1,18 @@
----
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 10
-
-title: 团队信息
-subtitle:
-
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - 主席团
-    - 执行委员会
-design:
-  show_interests: false
-  show_role: true
-  show_social: true
----
+###### 团队信息
+###### 主席团
+|名字|职位|
+| ----------- | ----------- |
+|李许雯佳|主席|
+|曲笛|副主席|
+|熊书琰|副主席|
+|高源|司库|
+###### 执行委员会
+|名字|职位|
+| ----------- | ----------- |
+|崔俊元|企业部部长|
+|张堃|宣传部部长|
+|徐毅蓁|文体部部长|
+|杜超瑜|公关部部长|
+|王童童|秘书处部长|
+|王钰|外联部部长|
+|顾健|技术部部长|
