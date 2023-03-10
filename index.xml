@@ -4,70 +4,47 @@
 - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-Further event details, including page elements such as image galleries, can be added to the body of this page. --></description></item><item><title/><link>https://acssz.github.io/about/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/contact/</guid><description/></item><item><title/><link>https://acssz.github.io/about/group/group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/group/group/</guid><description>&lt;h6 id="团队信息">团队信息&lt;/h6>
-&lt;h6 id="主席团">主席团&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>名字&lt;/th>
-&lt;th>职位&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>李许雯佳&lt;/td>
-&lt;td>主席&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>曲笛&lt;/td>
-&lt;td>副主席&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>熊书琰&lt;/td>
-&lt;td>副主席&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>高源&lt;/td>
-&lt;td>司库&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h6 id="执行委员会">执行委员会&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>名字&lt;/th>
-&lt;th>职位&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>崔俊元&lt;/td>
-&lt;td>企业部部长&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>张堃&lt;/td>
-&lt;td>宣传部部长&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>徐毅蓁&lt;/td>
-&lt;td>文体部部长&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>杜超瑜&lt;/td>
-&lt;td>公关部部长&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>王童童&lt;/td>
-&lt;td>秘书处部长&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>王钰&lt;/td>
-&lt;td>外联部部长&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>顾健&lt;/td>
-&lt;td>技术部部长&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item><item><title/><link>https://acssz.github.io/about/group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/group/</guid><description/></item><item><title/><link>https://acssz.github.io/about/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/intro/</guid><description/></item><item><title/><link>https://acssz.github.io/about/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/people/</guid><description/></item><item><title/><link>https://acssz.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/admin/config.yml</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/airchina/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/airchina/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/beyond/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/beyond/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/biguiyuan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/biguiyuan/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/huawei/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/huawei/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/kuaizi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/kuaizi/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/lam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/lam/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/lebara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/lebara/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/linlin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/linlin/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/lovenpeace/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/lovenpeace/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/redlion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/redlion/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/sustyle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/sustyle/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/swisscare/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/swisscare/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/washokujapan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/washokujapan/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/yallo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/yallo/</guid><description/></item><item><title/><link>https://acssz.github.io/partner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner/</guid><description/></item><item><title/><link>https://acssz.github.io/service/booklet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/booklet/</guid><description/></item><item><title/><link>https://acssz.github.io/service/guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/guide/</guid><description/></item><item><title/><link>https://acssz.github.io/service/miniprogram/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/miniprogram/</guid><description/></item><item><title/><link>https://acssz.github.io/service/redbook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/redbook/</guid><description/></item><item><title/><link>https://acssz.github.io/service/wechat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/wechat/</guid><description/></item></channel></rss>
+Further event details, including page elements such as image galleries, can be added to the body of this page. --></description></item><item><title/><link>https://acssz.github.io/about/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/contact/</guid><description/></item><item><title/><link>https://acssz.github.io/about/group/group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/group/group/</guid><description>&lt;h6 id="部门介绍">部门介绍&lt;/h6>
+&lt;h6 id="文体部">文体部&lt;/h6>
+&lt;p>负责学联体育赛事以及文化娱乐活动的组织。&lt;/p>
+&lt;h6 id="企业部">企业部&lt;/h6>
+&lt;p>主要负责企业参观、与企业维护好关系、企业招聘、根据不同活动找不同欧洲本地企业拉赞助。&lt;/p>
+&lt;h6 id="公关部">公关部&lt;/h6>
+&lt;p>&lt;strong>紧急情况协助：积极主动&lt;/strong>协助处理各类紧急情况和突发事件，如：&lt;/p>
+&lt;ul>
+&lt;li>教授种族歧视事件协助组织撰写公开信&lt;/li>
+&lt;li>Hönggerberg抢劫事件协助同学报警并了解详情、给校方写邮件提议增加路灯&lt;/li>
+&lt;li>SUV诈骗事件预警和提醒，协助受害同学收集信息并报警&lt;/li>
+&lt;li>学生微信群疯狂加好友换汇疑似诈骗事件提前预警，主动关注群内动态和信息
+&lt;strong>企业关系与福利：&lt;/strong>&lt;/li>
+&lt;li>联系企业建立合作，为同学争取福利&lt;/li>
+&lt;li>第一优先级是为同学争取福利和折扣优惠，其次才是对学联自身运作的赞助支持&lt;/li>
+&lt;li>目前的合作企业：Swisscare，Groupe Mutuel，Intermezzo，ACSC华人滑雪&lt;/li>
+&lt;li>正在尝试建立合作的企业：Swica，Yallo/Sunrise
+**各类福利信息：**提供各类福利信息，包括但不限《苏黎世学联新生手册》&lt;/li>
+&lt;li>联络工作、旅行、兴趣爱好的牛人达人，为同学做线上线下经验分享&lt;/li>
+&lt;li>新生手册编写
+**其它团体关系：**维护和促进与其它组织与团体关系&lt;/li>
+&lt;li>与校友会、其他中国和国外学联组织的沟通合作&lt;/li>
+&lt;li>中瑞协会&lt;/li>
+&lt;li>China Switzerland Connection&lt;/li>
+&lt;li>科协、瑞龙滑雪协会、精武会馆、艺术团等沟通联络，举办中瑞文化交流、语言角、文化节、滑雪课、武术课、文艺表演等活动&lt;/li>
+&lt;/ul>
+&lt;h6 id="外联部">外联部&lt;/h6>
+&lt;p>主要职能：承办国内政府、高校、企业在苏黎世召开的宣讲会和招聘会。
+洽谈与中资企业（比如:中国银行，中国建设银行，华为，小米，携程等）以及华人商铺（餐厅）的合作。&lt;/p>
+&lt;h6 id="宣传部">宣传部&lt;/h6>
+&lt;p>苏黎世学联对外的窗口。
+从文案到美图，从微信推广到各大社交平台账号的维护。需要负责宣传文案、绘画PS做海报剪视频等等。
+&lt;a href="https://forum.acssz.org" target="_blank" rel="noopener">学联论坛&lt;/a>上的官方账户经营。&lt;/p>
+&lt;h6 id="秘书处">秘书处&lt;/h6>
+&lt;p>了解活动流程，建立条理清晰的文件系统和邮件系统，整理各种会务工作。&lt;/p>
+&lt;h6 id="信息部">信息部&lt;/h6>
+&lt;p>电子学联卡小程序（微信小程序搜索“ACSSZ”）和&lt;a href="https://forum.acssz.org" target="_blank" rel="noopener">学联论坛&lt;/a>的技术维护。后续计划开发学联相关的app。
+信息部的服务于学联主体，对学联其他部门做支持。工作内容包括：&lt;/p>
+&lt;ul>
+&lt;li>推动资料的数字存档（比如版本管理、学生信息管理、多端内容呈现）学联云盘&lt;/li>
+&lt;li>响应日常的技术需求（比如项目维护、权限管理、功能工具发现）&lt;/li>
+&lt;li>需求和解决方案挖掘（维护需求列表、活动预案总结）&lt;/li>
+&lt;li>项目层面讨论和交流（面向专项开发）&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://acssz.github.io/about/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/intro/</guid><description/></item><item><title/><link>https://acssz.github.io/about/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/about/people/</guid><description/></item><item><title/><link>https://acssz.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/admin/config.yml</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/airchina/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/airchina/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/beyond/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/beyond/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/biguiyuan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/biguiyuan/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/huawei/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/huawei/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/kuaizi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/kuaizi/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/lam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/lam/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/lebara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/lebara/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/linlin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/linlin/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/lovenpeace/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/lovenpeace/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/redlion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/redlion/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/sustyle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/sustyle/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/swisscare/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/swisscare/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/washokujapan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/washokujapan/</guid><description/></item><item><title/><link>https://acssz.github.io/partner-business/yallo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner-business/yallo/</guid><description/></item><item><title/><link>https://acssz.github.io/partner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/partner/</guid><description/></item><item><title/><link>https://acssz.github.io/service/booklet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/booklet/</guid><description/></item><item><title/><link>https://acssz.github.io/service/guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/guide/</guid><description/></item><item><title/><link>https://acssz.github.io/service/miniprogram/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/miniprogram/</guid><description/></item><item><title/><link>https://acssz.github.io/service/redbook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/redbook/</guid><description/></item><item><title/><link>https://acssz.github.io/service/wechat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acssz.github.io/service/wechat/</guid><description/></item></channel></rss>
