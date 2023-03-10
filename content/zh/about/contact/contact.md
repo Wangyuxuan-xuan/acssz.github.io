@@ -16,8 +16,11 @@ text: 您可以通过以下方式联系我们：
 content:
    # Automatically link email and phone or display as text?
    email: xuelian@acssz.org
-   directions: 微信公众号请扫描下方二维码      
+   directions:     
    contact_links:
+        - icon: wechat
+          icon_pack: fab
+          name: 微信公众号请扫描下方二维码  
         - icon: facebook
           icon_pack: fab
           name: Facebook群组
@@ -41,5 +44,5 @@ design:
    columns: '1'
 ---
 <figure>
-    <img src="QRcode.jpg" alt="QRcode">
+    <img src="/assets/media/QRcode.jpg" alt="QRcode">
 <figure>  
