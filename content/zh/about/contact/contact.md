@@ -38,3 +38,4 @@ content:
 design:
    columns: '1'
 ---
+![QRcode](QRcode.jpg)
