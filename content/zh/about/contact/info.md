@@ -1,1 +1,0 @@
-![RQcode](/assets/media/QRcode.jpg)
