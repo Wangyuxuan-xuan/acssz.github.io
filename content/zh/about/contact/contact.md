@@ -38,6 +38,3 @@ content:
 design:
    columns: '1'
 ---
-<figure>
-    <img src="/assets/media/QRcode.jpg" alt="QRcode">
-</figure>  
