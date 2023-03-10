@@ -1,2 +1,1 @@
-###### test
-<img src="/assets/media/QRcode.jpg">
+![RQcode](/assets/media/QRcode.jpg)
