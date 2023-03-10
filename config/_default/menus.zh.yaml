@@ -86,7 +86,7 @@ main:
     weight: 43
   - name: 部门结构
     parent: about
-    url: about/group/
+    url: about/group_archi/
     weight: 44
   - name: 联系学联
     parent: about
