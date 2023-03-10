@@ -1,8 +1,6 @@
 ---
-title: 2019年活动
-
 # Listing view
-view: showcase
+view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
