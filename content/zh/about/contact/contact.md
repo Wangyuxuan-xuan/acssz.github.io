@@ -16,6 +16,7 @@ text: 您可以通过以下方式联系我们：
 content:
    # Automatically link email and phone or display as text?
    email: xuelian@acssz.org
+   directions: 微信公众号请扫描下方二维码      
    contact_links:
         - icon: facebook
           icon_pack: fab
@@ -25,10 +26,6 @@ content:
           icon_pack: fab
           name: 微博号
           link: 'http://www.weibo.com/p/1005052462691882/home?from=page_100505&mod=TAB&is_hot=1'
-        - icon: weixin
-          icon_pack: fab
-          name: 微信公众号
-          link: 'https://mp.weixin.qq.com/s/GaPP3vFxrKfpJXSHtdiMHA'
         - icon: instagram
           icon_pack: fab
           name: 小红书账号
@@ -43,3 +40,6 @@ content:
 design:
    columns: '1'
 ---
+<figure>
+    <img src="QRcode.jpg" alt="QRcode">
+<figure>  

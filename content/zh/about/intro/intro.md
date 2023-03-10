@@ -4,8 +4,6 @@ widget: hero
 
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  请扫码关注苏黎世学联公众号
 hero_media: QRcode.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -14,7 +12,7 @@ design:
 
 <br>
 
-## 关于我们
+###### 请扫码关注苏黎世学联公众号
 
 苏黎世中国学生学者联合会(ACSSZ)共有XXXX位成员，成立于80年代中，至今已有三十余年历史，是一个由当地学生学者们共同组成，关爱互助的大家庭。学联宗旨是服务广大中国学生、学者，联系、团结校友、华人、华侨，服务苏黎世地区的华人社区，弘扬中华文化，促进中瑞文化交流与相互理解。
 
