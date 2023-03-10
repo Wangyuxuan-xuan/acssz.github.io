@@ -8,8 +8,6 @@ headless: true
 
  # Order that this section appears on the page.
 weight: 100
-
-title: 联系我们
 subtitle: ''
 text: 您可以通过以下方式联系我们：
 
@@ -40,6 +38,3 @@ content:
 design:
    columns: '1'
 ---
-<figure>
-    <img src="/assets/media/QRcode.jpg" alt="QRcode">
-</figure>  
