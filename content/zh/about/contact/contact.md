@@ -14,7 +14,7 @@ text: 您可以通过以下方式联系我们：
 content:
    # Automatically link email and phone or display as text?
    email: xuelian@acssz.org
-   directions: 微信公众号请扫描下方二维码      
+   directions: 微信公众号请扫描上方二维码      
    contact_links:
         - icon: facebook
           icon_pack: fab
