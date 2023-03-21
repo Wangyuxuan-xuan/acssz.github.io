@@ -8,4 +8,28 @@ design:
   columns: '1'
 ---
 ###### 起飞指南视频
-<iframe src="//player.bilibili.com/player.html?aid=546258589&bvid=BV1Dq4y1L7dm&cid=360236932&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<!-- The following block also works, but more redundant
+From stackoverflow https://stackoverflow.com/a/819455
+<script type="application/javascript">
+function resizeIFrameToFitContent( iFrame ) {
+    iFrame.width  = 0.5*iFrame.contentWindow.top.document.documentElement.scrollWidth;
+    iFrame.height = 0.5*iFrame.contentWindow.top.document.documentElement.scrollHeight;
+}
+window.addEventListener('DOMContentLoaded', function(e) {
+    var iFrame = document.getElementById( 'iFrame1' );
+    resizeIFrameToFitContent( iFrame );
+    // or, to resize all iframes:
+    var iframes = document.querySelectorAll("iframe");
+    for( var i = 0; i < iframes.length; i++) {
+        resizeIFrameToFitContent( iframes[i] );
+    }
+} );
+</script>
+
+<iframe src="//player.bilibili.com/player.html?aid=546258589&bvid=BV1Dq4y1L7dm&cid=360236932&page=1" scrolling="no"  frameborder="no" framespacing="0" id="iFrame1"> </iframe> 
+-->
+
+
+<iframe src="//player.bilibili.com/player.html?aid=546258589&bvid=BV1Dq4y1L7dm&cid=360236932&page=1" scrolling="no"  frameborder="no" framespacing="0" onload='javascript:(function(o){o.style.height=0.5*o.contentWindow.top.document.documentElement.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;" > </iframe> 
+
