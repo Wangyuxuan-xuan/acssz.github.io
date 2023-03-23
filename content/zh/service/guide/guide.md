@@ -31,5 +31,10 @@ window.addEventListener('DOMContentLoaded', function(e) {
 -->
 
 
-<iframe src="//player.bilibili.com/player.html?aid=546258589&bvid=BV1Dq4y1L7dm&cid=360236932&page=1" scrolling="no"  frameborder="no" framespacing="0" border="0" allowfullscreen="true" onload='javascript:(function(o){o.style.height=0.5*o.contentWindow.top.document.documentElement.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;" > </iframe> 
+<!-- The following block also works, but also more redundant
+<iframe src="//player.bilibili.com/player.html?aid=546258589&bvid=BV1Dq4y1L7dm&cid=360236932&page=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true" onload='javascript:(function(o){o.style.height=0.5*o.contentWindow.top.document.documentElement.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" > </iframe> 
+-->
 
+<div class="aspect-ratio" >
+    <iframe src="//player.bilibili.com/player.html?aid=546258589&bvid=BV1Dq4y1L7dm&cid=360236932&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+</div>
