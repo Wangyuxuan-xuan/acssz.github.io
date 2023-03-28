@@ -34,15 +34,15 @@ main:
     weight: 16
   - name: 学联专属Sunrise YOL折扣
     parent: service
-    url: https://forum.acssz.org/d/796-yi-wen-du-dong-rui-shi-dian-hua-qia-xue-lian-sunrise-yolfu-li 
+    url: service/sunrise
     weight: 17
   - name: 学联专属Swisscare折扣
     parent: service
-    url: https://forum.acssz.org/d/51-swisscarebao-xian-guideline-da-yi-he-xue-lian-zhe-kou 
+    url: service/swisscare
     weight: 18
   - name: 学联伙伴intermezzo租房
     parent: service
-    url: https://forum.acssz.org/d/386 
+    url: service/intermezzo
     weight: 19
   - name: 活动
     identifier: event
