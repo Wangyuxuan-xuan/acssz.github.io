@@ -26,7 +26,7 @@ main:
     weight: 14
   - name: 学联论坛
     parent: service
-    url: https://forum.acssz.org
+    url: service/forum #https://forum.acssz.org
     weight: 15
   - name: 学联卡小程序
     parent: service
