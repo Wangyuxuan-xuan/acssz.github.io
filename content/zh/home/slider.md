@@ -15,54 +15,59 @@ design:
 
 content:
   slides:
-    - title: 健康包发放
-      content: 与总领馆总领事赵清华
+    - title: 瑞士中国学生迎新春运动会
+      content: ''
       align: center
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: slider_consulat.jpg
+        media: slider-sport.png
         fit: cover
-    - title: 二胡教学
-      content: '2018文化节'
+      url: event/2022/
+    - title: 滑雪介绍会
+      content: ''
       align: right
       background:
         position: center
         color: '#666'
         brightness: 0.7
-        media: slider_erhu.jpeg
+        media: slider-ski.jpeg
         fit: cover
-    - title: 汉服体验
+      url: event/2022/
+    - title: 学联新生迎新会
       content: ''
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: slider_hanfu.jpg
+        media: slider-welcome.png
         fit: cover
-    - title: 中华美食
+      url: event/2022/
+    - title: 中国园·中国日
       content: ''
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.7
-        media: slider_food.jpeg
+        media: slider-china.jpg
         fit: cover
-      <!-- link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/ -->
-    - title: 民乐演出
+      url: event/2022/
+      # <!-- link:
+      #   icon: graduation-cap
+      #   icon_pack: fas
+      #   text: Join Us
+      #   url: ../contact/ -->
+    - title: 歌手大赛-音你而来决赛
       content: ''
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: slider_music.jpg
+        media: slider-contest.jpeg
         fit: cover
+      url: event/2022/
 ---
