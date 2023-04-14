@@ -28,7 +28,7 @@ content:
 
 design:
   columns: '1'
-  view: card
+  view: Masonry
   flip_alt_rows: true
   background: {}
   spacing: {padding: [100, 0, 0, 0]}
