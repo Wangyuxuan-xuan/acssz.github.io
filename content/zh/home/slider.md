@@ -25,8 +25,9 @@ content:
         media: slider-sport.png
         fit: cover
       link:
-        icon: graduation-cap
+        icon: calendar
         icon_pack: fas
+        text: 了解更多
         url: ../event/2022/
     - title: 滑雪介绍会
       content: ''
@@ -37,6 +38,10 @@ content:
         brightness: 0.7
         media: slider-ski.jpeg
         fit: cover
+      link:
+        icon: calendar
+        icon_pack: fas
+        text: 了解更多
         url: ../event/2022/
     - title: 学联新生迎新会
       content: ''
@@ -47,6 +52,10 @@ content:
         brightness: 0.7
         media: slider-welcome.png
         fit: cover
+      link:
+        icon: calendar
+        icon_pack: fas
+        text: 了解更多
         url: ../event/2022/
     - title: 中国园·中国日
       content: ''
@@ -57,6 +66,10 @@ content:
         brightness: 0.7
         media: slider-china.jpg
         fit: cover
+      link:
+        icon: calendar
+        icon_pack: fas
+        text: 了解更多
         url: ../event/2022/
     - title: 歌手大赛-音你而来决赛
       content: ''
@@ -67,5 +80,9 @@ content:
         brightness: 0.7
         media: slider-contest.jpeg
         fit: cover
+      link:
+        icon: calendar
+        icon_pack: fas
+        text: 了解更多
         url: ../event/2022/
 ---
