@@ -24,6 +24,9 @@ content:
         brightness: 0.7
         media: slider-sport.png
         fit: cover
+      link:
+        icon: graduation-cap
+        icon_pack: fas
         url: ../event/2022/
     - title: 滑雪介绍会
       content: ''
