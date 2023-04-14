@@ -31,6 +31,5 @@ design:
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [200, 0, 0, 0]}
+  spacing: {padding: [100, 0, 0, 0]}
 ---
-###### 合作伙伴
