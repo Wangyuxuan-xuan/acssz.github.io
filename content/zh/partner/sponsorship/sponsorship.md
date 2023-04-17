@@ -11,7 +11,7 @@
         padding: 10px;
     }
     img {
-      max-width: 30%;
+      max-width: 100%;
       height: auto;
       object-fit: cover;
       padding: 20px;

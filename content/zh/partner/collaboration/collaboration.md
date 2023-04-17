@@ -9,9 +9,9 @@
         grid-auto-rows: minmax(100px, auto);
         grid-gap: 10px;
         padding: 10px;
-      }
+    }
     img {
-      max-width: 30%;
+      max-width: 100%;
       height: auto;
       object-fit: cover;
       padding: 20px;
