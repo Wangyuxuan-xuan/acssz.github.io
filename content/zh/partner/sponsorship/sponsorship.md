@@ -9,8 +9,7 @@
         grid-auto-rows: minmax(100px, auto);
         grid-gap: 10px;
         padding: 10px;
-      }
-
+    }
     img {
       max-width: 30%;
       height: auto;
