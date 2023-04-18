@@ -11,7 +11,7 @@
 <style>
   .image-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-auto-rows: minmax(100px, auto);
     grid-gap: 10px;
     padding: 10px;
