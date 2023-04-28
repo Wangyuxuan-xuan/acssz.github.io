@@ -3,7 +3,8 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-logo = "/assets/media/icon.png"
+params:
+l ogo: "media/icon.png"
 # Appearance
 
 appearance:
