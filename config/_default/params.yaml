@@ -5,6 +5,7 @@
 
 params:
   logo: media/logo.png
+  title: "苏黎世学联"
 # Appearance
 
 appearance:
