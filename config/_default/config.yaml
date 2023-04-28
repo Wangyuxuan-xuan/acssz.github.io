@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-params:
-  logo: media/logo.png
+# params:
+#   logo: media/logo.png
 title: ACSSZ # Website name
 baseURL: 'https://acssz.github.io' # Website URL
 
