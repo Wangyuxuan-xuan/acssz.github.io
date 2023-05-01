@@ -8,7 +8,7 @@ main:
     url: service
     identifier: service
     weight: 10
-  - name: 起飞指南视频
+  - name: 新生答疑会录屏
     parent: service
     url: service/guide
     weight: 11

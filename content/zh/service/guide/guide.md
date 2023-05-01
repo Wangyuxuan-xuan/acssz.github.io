@@ -7,7 +7,7 @@ weight: 40
 design:
   columns: '1'
 ---
-###### 起飞指南视频
+###### 2023新生互动答疑会视频
 
 <!-- The following block also works, but more redundant
 From stackoverflow https://stackoverflow.com/a/819455
@@ -36,5 +36,5 @@ window.addEventListener('DOMContentLoaded', function(e) {
 -->
 
 <div class="aspect-ratio" >
-    <iframe src="https://player.bilibili.com/player.html?aid=546258589&bvid=BV1Dq4y1L7dm&cid=360236932&page=1&as_wide=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+    <iframe src="//player.bilibili.com/player.html?aid=698076644&bvid=BV18m4y1176R&cid=1114181207&page=1&as_wide=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 </div>
