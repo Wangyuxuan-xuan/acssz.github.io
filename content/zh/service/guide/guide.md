@@ -36,5 +36,5 @@ window.addEventListener('DOMContentLoaded', function(e) {
 -->
 
 <div class="aspect-ratio" >
-    <iframe src="//player.bilibili.com/player.html?aid=698076644&bvid=BV18m4y1176R&cid=1114181207&page=1&as_wide=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+    <iframe src="//player.bilibili.com/player.html?aid=698076644&bvid=BV18m4y1176R&cid=1114181207&page=1&as_wide=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 </div>
