@@ -3,6 +3,7 @@
 
 <div class="image-grid">
   <img src="1.png" alt="groupmutual"> 
+  <img src="2.jpg" alt="meedo"> 
 </div>
 
 <style>
