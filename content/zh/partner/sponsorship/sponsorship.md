@@ -4,7 +4,7 @@
 <div class="image-grid">
   <a href="https://forum.acssz.org/d/796-yi-wen-du-dong-rui-shi-dian-hua-qia-xue-lian-sunrise-yolfu-li"><img src="3.jpeg" alt="Sunrise"></a> 
   <a href="https://forum.acssz.org/d/51-swisscarebao-xian-guideline-da-yi-he-xue-lian-zhe-kou"> <img src="4.jpeg" alt="Swisscare"></a>  
-  <a href="https://forum.acssz.org/d/796-yi-wen-du-dong-rui-shi-dian-hua-qia-xue-lian-sunrise-yolfu-li"><img src="yls.jpeg" alt="yallo-lebara-swype"></a> 
+  <a href="https://forum.acssz.org/d/796-yi-wen-du-dong-rui-shi-dian-hua-qia-xue-lian-sunrise-yolfu-li"><img src="yls.jpg" alt="yallo-lebara-swype"></a> 
 </div>
 
 <style>
