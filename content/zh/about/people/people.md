@@ -12,10 +12,10 @@
 
 |名字|职位|
 | ----------- | ----------- |
-|曾理|企业部部长|
+|陈雨航|企业部部长|
 |张堃|宣传部部长|
-|徐毅蓁|文体部部长|
+|徐思婕|文体部部长|
 |杜超瑜|公关部部长|
-|暂无|秘书处部长|
-|顾健|信息部部长|
+|杨晨宇|秘书处部长|
+|崔玺萌|信息部部长|
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
