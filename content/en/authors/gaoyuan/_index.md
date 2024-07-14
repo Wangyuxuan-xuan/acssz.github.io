@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 高源
+title: Yuan Gao
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Accounting Department
+role: Public Relations Department
 
 email: nouvaxs@gmail.com
 
@@ -23,5 +23,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Presidium
+  - Executive Committee
 ---

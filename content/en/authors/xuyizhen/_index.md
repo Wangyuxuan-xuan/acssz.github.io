@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 徐毅蓁
+title: Yizhen Xu
 
 # Username (this should match the folder name)
 authors:
@@ -23,5 +23,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Executive Committee
+  - Consultant
 ---

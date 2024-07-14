@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jian Gu
+title: Ximeng Cui
 
 # Username (this should match the folder name)
 authors:
-  - gujian
+  - cuiximeng
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,15 +12,16 @@ superuser: false
 # Role/position
 role: IT Department
 
-email: nouvaxs@gmail.com
+# email: duchaoyudinah@gmail.com
 
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:nouvaxs@gmail.com'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:duchaoyudinah@gmail.com'
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Consultant
+  - Executive Committee
 ---

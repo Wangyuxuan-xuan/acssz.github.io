@@ -18,6 +18,7 @@ content:
   user_groups:
     - Presidium
     - Executive Committee
+    - Consultant
 design:
   show_interests: false
   show_role: true

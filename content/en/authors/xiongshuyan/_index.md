@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 熊书琰
+title: Shuyuan Xiong
 
 # Username (this should match the folder name)
 authors:
@@ -12,12 +12,12 @@ superuser: false
 # Role/position
 role: Vice-Chairman
 
-email: xiong@arch.ethz.ch/
+email: xiong@arch.ethz.ch
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xiong@arch.ethz.ch/'
+    link: 'mailto:xiong@arch.ethz.ch'
 
 
 # Organizational groups that you belong to (for People widget)

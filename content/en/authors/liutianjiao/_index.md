@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 王钰
+title: Tianjiao Liu
 
 # Username (this should match the folder name)
 authors:
-  - wangyu
+  - liutianjiao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Public Relations Department
+role: Enterprise Department
 
-email: yu0911wang@gmail.com
+# email: duchaoyudinah@gmail.com
 
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:yu0911wang@gmail.com'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:duchaoyudinah@gmail.com'
 
 
 # Organizational groups that you belong to (for People widget)

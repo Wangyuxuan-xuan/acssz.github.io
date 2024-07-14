@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李许雯佳
+title: Xuwenjia Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: chairman
+role: Enterprise Department
 
 email: xuwli@student.ethz.ch
 
@@ -23,5 +23,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Presidium
+  - Consultant
 ---
